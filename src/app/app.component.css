@@ -1,0 +1,4 @@
+:host ::ng-deep .ng2-pdf-viewer-container {
+    height: auto !important;
+    overflow-y: hidden !important;
+  }
